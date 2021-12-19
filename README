@@ -1,0 +1,8 @@
+	README for artraced 0.0.1
+
+To compile it:
+	make (or gnumake/gmake)
+
+
+This version has been tested on Linux 2.2.x+ kernels and Solaris.
+
